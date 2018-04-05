@@ -18,6 +18,7 @@ namespace PermitSystem {
 
 
         public PermitSystem() {
+            // initialize the component
             InitializeComponent();
         }
 
