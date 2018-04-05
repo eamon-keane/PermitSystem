@@ -1,0 +1,10 @@
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\bin\Debug\PermitSystem.exe.config
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\bin\Debug\PermitSystem.exe
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\bin\Debug\PermitSystem.pdb
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\obj\Debug\PermitSystem.csprojResolveAssemblyReference.cache
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\obj\Debug\PermitSystem.Properties.Resources.resources
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\obj\Debug\PermitSystem.csproj.GenerateResource.cache
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\obj\Debug\PermitSystem.csproj.CoreCompileInputs.cache
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\obj\Debug\PermitSystem.exe
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\obj\Debug\PermitSystem.pdb
+C:\Users\Eamon\source\repos\PermitSystem\PermitSystem\obj\Debug\PermitSystem.PermitSystem.resources
